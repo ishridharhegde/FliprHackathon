@@ -1,0 +1,5 @@
+The time line shown does not change with the data.
+
+Also the cards on the top.
+
+The data in the table is fethced from the API given.
